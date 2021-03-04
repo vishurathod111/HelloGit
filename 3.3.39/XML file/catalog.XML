@@ -2,7 +2,7 @@
 <?xml-stylesheet href="catalog.xsl" type="text/xsl"?>
 <!DOCTYPE catalog SYSTEM "catalog.DTD">
 <catalog>test123
-   <product description="Cardigan Sweaters" product_image="cardigan.jpg">
+   <product description="Cardigan Sweater1" product_image="cardigan.jpg">
       <catalog_item gender="Men's" ID="1">
          <item_number>AbcdefghiJklmnopQrsTuvwxyz</item_number>
          <price>39.95</price>
